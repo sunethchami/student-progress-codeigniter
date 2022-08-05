@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 22, 2020, 10:50:31 AM
+    Author     : Suneth Senanayake
+*/
+
+
+.td-action{
+    width:20%;
+    text-align: center;
+}
+.table-button{
+    display: inline-block;
+    margin: 4px;
+}
+.th-mark{ 
+    text-align: center;  
+}
+.td-mark{
+    text-align: center;
+}
+.th-action{
+    text-align: center;
+}
+.btn-submit{
+    margin-left: 213px;
+}
+
+
